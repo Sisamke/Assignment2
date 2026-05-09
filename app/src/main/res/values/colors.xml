@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="primaryTeal">#009688</color>
+    <color name="darkNavy">#0A1F44</color>
+    <color name="lightTeal">#00BFA5</color>
+    <color name="accentYellow">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+    <color name="softGray">#F5F5F5</color>
+
+</resources>
